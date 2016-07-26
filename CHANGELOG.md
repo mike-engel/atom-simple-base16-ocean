@@ -1,3 +1,7 @@
+## 0.2.1 - Readme updates
+* Added a retina screenshot
+* Changed the screenshot link for the atom theme page
+
 ## 0.2.0 - Incrimental updates
 * Adds rules for some new clases I hadn't seen before
 * Adds a screenshot to the readme

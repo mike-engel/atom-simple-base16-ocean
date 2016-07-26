@@ -4,7 +4,7 @@
 
 Only comments, keywords, and strings are colors. Everything else has been stripped of color.
 
-![screenshot](screenshot.png)
+![screenshot](https://github.com/mike-engel/atom-simple-base16-ocean/blob/master/screenshot.png)
 
 ## [changelog](CHANELOG.md)
 
