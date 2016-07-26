@@ -201,7 +201,6 @@ atom-text-editor .search-results .marker.current-result .region,
   }
   &.name.type {
     color: @syntax-text-color;
-    text-decoration: underline;
   }
 
   &.other.inherited-class {
@@ -217,7 +216,6 @@ atom-text-editor .search-results .marker.current-result .region,
 
   &.name.tag {
     color: @syntax-text-color;
-    text-decoration: underline;
   }
 
   &.other.attribute-name {
@@ -310,6 +308,13 @@ atom-text-editor .search-results .marker.current-result .region,
   &.keyword,
   .keyword {
     color: @syntax-keyword-color;
+  }
+
+  .storage {
+    &.modifier,
+    &.type {
+      color: @syntax-keyword-color;
+    }
   }
 
   &.gfm .markup {
