@@ -1,0 +1,19 @@
+{
+  "name": "simple-base16-ocean-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A simplified base16 ocean syntax theme. 4 colors and that's it.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "base16",
+    "ocean",
+    "simple",
+    "barebones"
+  ],
+  "repository": "https://github.com/mike-engel/atom-simple-base16-ocean",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
