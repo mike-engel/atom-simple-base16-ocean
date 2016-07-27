@@ -1,7 +1,7 @@
 {
   "name": "simple-base16-ocean-syntax",
   "theme": "syntax",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "A simplified base16 ocean syntax theme. 4 colors and that's it.",
   "keywords": [
     "syntax",
