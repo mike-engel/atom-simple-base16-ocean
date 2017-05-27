@@ -8,4 +8,4 @@ Only comments, keywords, and strings are colors. Everything else has been stripp
 
 ## [changelog](CHANELOG.md)
 
-## [license](LICENSE)
+## [license](LICENSE.md)
